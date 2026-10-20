@@ -1,6 +1,8 @@
 # Hi, I'm Roz Alomar 👋
 
-**Information Systems student at Najran University** focused on technology-driven solutions, data analysis and UI/UX design. I lead the Programming Club and build practical tech solutions for real-world problems — from crowd management at Hajj to VR therapy for children.
+### AI Solutions Builder | 3+ Hackathon Awards | Research | Innovation
+
+**AI Solutions Builder and Information Systems student at Najran University**, focused on technology-driven solutions, data analysis and UI/UX design. I lead the Programming Club and build practical tech solutions for real-world problems — from crowd management at Hajj to VR therapy for children.
 
 - 🧑‍💻 Leader, Programming Club (Jan 2026 – Present)
 - 🌍 Ambassador for Oracle, Hult Prize Foundation & Venture Craft KFUPM
