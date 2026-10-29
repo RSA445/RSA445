@@ -43,35 +43,39 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🕋 Wjhny</h3>
+      <h3><a href="https://github.com/RSA445/Wjhny">🕋 Wjhny ↗</a></h3>
       <b>AI-Powered Pilgrimage Assistant</b><br/><br/>
       • Developed an AI and AR-based solution for crowd management during Hajj and Umrah.<br/>
       • Selected among the top 15 teams out of 300+ participants.<br/>
       • Advanced to the incubation stage and presented at the Hajj & Umrah Conference 2025.<br/><br/>
-      <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/AR-5B3CC4?style=flat-square"/> <img src="https://img.shields.io/badge/Top%2015%20%2F%20300%2B-F59E0B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/AR-5B3CC4?style=flat-square"/> <img src="https://img.shields.io/badge/Top%2015%20%2F%20300%2B-F59E0B?style=flat-square"/><br/><br/>
+      <a href="https://github.com/RSA445/Wjhny"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🛡️ Nabeh</h3>
+      <h3><a href="https://github.com/RSA445/Nabeh">🛡️ Nabeh ↗</a></h3>
       <b>Smart Safety System for Pilgrims</b><br/><br/>
       • Designed a system to reduce violations in restricted pilgrimage areas.<br/>
       • Integrated real-time monitoring and an alert system for incident detection.<br/>
       • Enhanced safety and compliance through smart tracking solutions.<br/><br/>
-      <img src="https://img.shields.io/badge/Real--time%20Monitoring-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Smart%20Tracking-14B8A6?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Real--time%20Monitoring-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Smart%20Tracking-14B8A6?style=flat-square"/><br/><br/>
+      <a href="https://github.com/RSA445/Nabeh"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🥽 Bunyan</h3>
+      <h3><a href="https://github.com/RSA445/Bunyan">🥽 Bunyan ↗</a></h3>
       <b>VR-Based Therapy Solution</b><br/><br/>
       • Developed a VR-based tool to support children during physiotherapy sessions.<br/>
       • Improved engagement and therapy effectiveness.<br/><br/>
-      <img src="https://img.shields.io/badge/VR-EC4899?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-National-CD7F32?style=flat-square"/>
+      <img src="https://img.shields.io/badge/VR-EC4899?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-National-CD7F32?style=flat-square"/><br/><br/>
+      <a href="https://github.com/RSA445/Bunyan"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ Wisal</h3>
+      <h3><a href="https://github.com/RSA445/Wisal">🏛️ Wisal ↗</a></h3>
       <b>Digital Public Service Improvement Platform</b><br/><br/>
       • Designed solutions to improve the accessibility and efficiency of public services in Najran.<br/><br/>
-      <img src="https://img.shields.io/badge/GovTech-22C55E?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-CD7F32?style=flat-square"/> <img src="https://img.shields.io/badge/Regional%20Governor%20Recognition-1A1F4B?style=flat-square"/>
+      <img src="https://img.shields.io/badge/GovTech-22C55E?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-CD7F32?style=flat-square"/> <img src="https://img.shields.io/badge/Regional%20Governor%20Recognition-1A1F4B?style=flat-square"/><br/><br/>
+      <a href="https://github.com/RSA445/Wisal"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
