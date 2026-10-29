@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=650&lines=Information+Systems+Student+%40+Najran+University;AI+%26+AR+Solutions+for+Hajj+and+Umrah;Data+Analysis+%7C+UI%2FUX+Design+%7C+Web+Development;Leader%2C+Programming+Club" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=820&lines=Information+Systems+Student+%40+Najran+University;AI+%26+AR+Solutions+for+Hajj+and+Umrah;Data+Analysis+%7C+UI%2FUX+Design+%7C+Web+Development;Leader%2C+Programming+Club" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -87,24 +87,38 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 ## 💼 Experience
 
-```
-🧑‍💻 Leader · Programming Club                                    Jan 2026 – Present
-   ▸ Lead club strategy, operations, and technical initiatives.
-   ▸ Manage teams and organize workshops and competitions.
-   ▸ Drive student engagement in programming activities.
-
-🌍 Ambassador · Oracle Corporation, Hult Prize Foundation &
-               Venture Craft KFUPM                                Nov 2025 – Present
-   ▸ Represent multiple programs in technology and entrepreneurship.
-   ▸ Promote certifications and innovation initiatives.
-   ▸ Guide students in skill development and participation.
-
-📚 Vice Head · Training & Development Committee,
-              Programming Club                                    Sep 2023 – Aug 2025
-   ▸ Planned and delivered technical workshops.
-   ▸ Trained students on programming fundamentals.
-   ▸ Improved onboarding and learning experience.
-```
+<table>
+  <tr>
+    <td width="70" align="center"><h1>🧑‍💻</h1></td>
+    <td>
+      <b>Leader</b> · Programming Club<br/>
+      <img src="https://img.shields.io/badge/Jan%202026%20–%20Present-8B5CF6?style=flat-square"/><br/>
+      ▸ Lead club strategy, operations, and technical initiatives.<br/>
+      ▸ Manage teams and organize workshops and competitions.<br/>
+      ▸ Drive student engagement in programming activities.
+    </td>
+  </tr>
+  <tr>
+    <td width="70" align="center"><h1>🌍</h1></td>
+    <td>
+      <b>Ambassador</b> · Oracle Corporation, Hult Prize Foundation & Venture Craft KFUPM<br/>
+      <img src="https://img.shields.io/badge/Nov%202025%20–%20Present-5B3CC4?style=flat-square"/><br/>
+      ▸ Represent multiple programs in technology and entrepreneurship.<br/>
+      ▸ Promote certifications and innovation initiatives.<br/>
+      ▸ Guide students in skill development and participation.
+    </td>
+  </tr>
+  <tr>
+    <td width="70" align="center"><h1>📚</h1></td>
+    <td>
+      <b>Vice Head</b> · Training & Development Committee, Programming Club<br/>
+      <img src="https://img.shields.io/badge/Sep%202023%20–%20Aug%202025-1A1F4B?style=flat-square"/><br/>
+      ▸ Planned and delivered technical workshops.<br/>
+      ▸ Trained students on programming fundamentals.<br/>
+      ▸ Improved onboarding and learning experience.
+    </td>
+  </tr>
+</table>
 
 ---
 
