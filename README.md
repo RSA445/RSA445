@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=820&lines=Information+Systems+Student+%40+Najran+University;AI+%26+AR+Solutions+for+Hajj+and+Umrah;Data+Analysis+%7C+UI%2FUX+Design+%7C+Web+Development;Leader%2C+Programming+Club" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=820&lines=Information+Systems+Student+%40+Najran+University;AI+%26+AR+Solutions+for+Hajj+and+Umrah;Data+Analysis+%7C+UI%2FUX+Design+%7C+Web+Development;AI+Solutions+Builder+%7C+Python+%C2%B7+Pandas+%C2%B7+MLflow" alt="Typing intro"/>
 </p>
 
 <p align="center">
@@ -96,10 +96,10 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
     <td width="70" align="center"><h1>🧑‍💻</h1></td>
     <td>
       <b>Leader</b> · Programming Club<br/>
-      <img src="https://img.shields.io/badge/Jan%202026%20–%20Present-8B5CF6?style=flat-square"/><br/>
-      ▸ Lead club strategy, operations, and technical initiatives.<br/>
-      ▸ Manage teams and organize workshops and competitions.<br/>
-      ▸ Drive student engagement in programming activities.
+      <img src="https://img.shields.io/badge/Jan%202026%20–%20Aug%202026-8B5CF6?style=flat-square"/><br/>
+      ▸ Led club strategy, operations, and technical initiatives.<br/>
+      ▸ Managed teams and organized workshops and competitions.<br/>
+      ▸ Drove student engagement in programming activities.
     </td>
   </tr>
   <tr>
@@ -152,7 +152,7 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,figma&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,docker,figma&theme=dark" alt="Skills"/>
 </p>
 
 <table align="center">
@@ -162,9 +162,9 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
     <th>🤝 Soft Skills</th>
   </tr>
   <tr>
-    <td>✓ Python<br/>✓ JavaScript<br/>✓ HTML & CSS<br/>✓ Data Analysis & Reporting<br/>✓ UI/UX Design</td>
-    <td>✓ Figma<br/>✓ Microsoft Excel<br/>✓ Microsoft PowerPoint<br/>✓ Wireframing<br/>✓ Prototyping</td>
-    <td>✓ Team Leadership<br/>✓ Project & Event Management<br/>✓ Public Speaking<br/>✓ Analytical Thinking<br/>✓ Problem Solving</td>
+    <td>✓ Python<br/>✓ JavaScript<br/>✓ HTML & CSS<br/>✓ Pandas & NumPy<br/>✓ Data Analysis & Reporting<br/>✓ UI/UX Design & Prototyping</td>
+    <td>✓ Git<br/>✓ Docker<br/>✓ MLflow (MLOps)<br/>✓ OpenAI & DeepSeek<br/>✓ Figma<br/>✓ Microsoft Excel & PowerPoint</td>
+    <td>✓ Team Leadership<br/>✓ Project & Event Management<br/>✓ Public Speaking<br/>✓ Analytical Thinking<br/>✓ Problem Solving<br/>✓ Arabic & English</td>
   </tr>
 </table>
 
