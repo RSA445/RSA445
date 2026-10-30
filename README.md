@@ -153,8 +153,8 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 <table>
   <tr>
-    <td align="center" width="50%">
-      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="assets/certificates/umich-data-science-python.jpg" width="100%" alt="Introduction to Data Science in Python certificate"/></a><br/>
+    <td align="center">
+      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="assets/certificates/umich-data-science-python.jpg" width="480" alt="Introduction to Data Science in Python certificate"/></a><br/>
       <b>Introduction to Data Science in Python</b><br/>
       <sub>University of Michigan · Feb 2026 · Grade: 92.75%</sub><br/>
       <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a>
