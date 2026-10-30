@@ -52,12 +52,12 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
       <a href="https://github.com/RSA445/Wjhny"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/RSA445/Nabeh">🛡️ Nabeh ↗</a></h3>
-      <b>Smart Safety System for Pilgrims</b><br/><br/>
-      • Designed a system to reduce violations in restricted pilgrimage areas.<br/>
-      • Integrated real-time monitoring and an alert system for incident detection.<br/>
-      • Enhanced safety and compliance through smart tracking solutions.<br/><br/>
-      <img src="https://img.shields.io/badge/Real--time%20Monitoring-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Smart%20Tracking-14B8A6?style=flat-square"/><br/><br/>
+      <h3><a href="https://github.com/RSA445/Nabeh">🎓 Nabeh ↗</a></h3>
+      <b>AI-Powered Academic Advising Chatbot</b><br/><br/>
+      • Built an AI academic advising chatbot using insights from faculty, top students and university regulations.<br/>
+      • Gives instant answers tailored to major and level, with remedial plans and instructor guidance.<br/>
+      • Links to the university account for privacy and personalized, always-available support.<br/><br/>
+      <img src="https://img.shields.io/badge/AI%20Chatbot-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/EdTech-14B8A6?style=flat-square"/> <img src="https://img.shields.io/badge/Personalized%20Advising-6366F1?style=flat-square"/><br/><br/>
       <a href="https://github.com/RSA445/Nabeh"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
   </tr>
