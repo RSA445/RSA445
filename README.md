@@ -140,6 +140,7 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 ## 📜 Professional Certificates
 
 <p>
+  <img src="https://img.shields.io/badge/AWS%20%C3%97%20Saudi%20Digital%20Academy-AWS%20Certified%20AI%20Practitioner%20Learning%20Path-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/><br/>
   <img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals%20with%20Capstone%20Project-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/><br/>
   <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="https://img.shields.io/badge/University%20of%20Michigan-Introduction%20to%20Data%20Science%20in%20Python-00274C?style=for-the-badge&logo=coursera&logoColor=FFCB05"/></a><br/>
   <img src="https://img.shields.io/badge/Tuwaiq%20Academy-UX%3A%20From%20Analysis%20to%20Decision-6D28D9?style=for-the-badge"/><br/>
@@ -153,8 +154,13 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="assets/certificates/umich-data-science-python.jpg" width="480" alt="Introduction to Data Science in Python certificate"/></a><br/>
+    <td align="center" valign="top">
+      <img src="assets/certificates/aws-ai-practitioner-learning-path.jpg" width="400" alt="AWS Certified AI Practitioner Learning Path certificate"/><br/>
+      <b>AWS Certified AI Practitioner Learning Path</b><br/>
+      <sub>Saudi Digital Academy · MCIT · AWS</sub>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="assets/certificates/umich-data-science-python.jpg" width="400" alt="Introduction to Data Science in Python certificate"/></a><br/>
       <b>Introduction to Data Science in Python</b><br/>
       <sub>University of Michigan · Feb 2026 · Grade: 92.75%</sub><br/>
       <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a>
