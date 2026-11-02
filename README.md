@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="170"><h2>🏆 3+</h2><sub>Hackathon Awards</sub></td>
     <td align="center" width="170"><h2>🚀 4</h2><sub>Innovation Projects</sub></td>
-    <td align="center" width="170"><h2>📜 5</h2><sub>Professional Certificates</sub></td>
+    <td align="center" width="170"><h2>📜 7</h2><sub>Professional Certificates</sub></td>
     <td align="center" width="170"><h2>🎯 Top 15</h2><sub>out of 300+ teams</sub></td>
   </tr>
 </table>
@@ -145,7 +145,8 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
   <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="https://img.shields.io/badge/University%20of%20Michigan-Introduction%20to%20Data%20Science%20in%20Python-00274C?style=for-the-badge&logo=coursera&logoColor=FFCB05"/></a><br/>
   <img src="https://img.shields.io/badge/Tuwaiq%20Academy-UX%3A%20From%20Analysis%20to%20Decision-6D28D9?style=for-the-badge"/><br/>
   <img src="https://img.shields.io/badge/MinnaLearn-Elements%20of%20AI%20for%20Business-111827?style=for-the-badge"/><br/>
-  <img src="https://img.shields.io/badge/Tech%20Saudi%20Advocates%20(Founderz)-AI%20Skills%204%20Women-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tech%20Saudi%20Advocates%20(Founderz)-AI%20Skills%204%20Women-0F766E?style=for-the-badge"/><br/>
+  <img src="https://img.shields.io/badge/McKinsey.org-Forward%20Program-051C2C?style=for-the-badge"/>
 </p>
 
 ---
