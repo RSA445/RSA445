@@ -139,14 +139,8 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 ## 📜 Professional Certificates
 
-<p>
-  <img src="https://img.shields.io/badge/AWS%20%C3%97%20Saudi%20Digital%20Academy-AWS%20Certified%20AI%20Practitioner%20Learning%20Path-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/><br/>
-  <img src="https://img.shields.io/badge/IBM-Artificial%20Intelligence%20Fundamentals%20with%20Capstone%20Project-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/><br/>
-  <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="https://img.shields.io/badge/University%20of%20Michigan-Introduction%20to%20Data%20Science%20in%20Python-00274C?style=for-the-badge&logo=coursera&logoColor=FFCB05"/></a><br/>
-  <img src="https://img.shields.io/badge/Tuwaiq%20Academy-UX%3A%20From%20Analysis%20to%20Decision-6D28D9?style=for-the-badge"/><br/>
-  <img src="https://img.shields.io/badge/MinnaLearn-Elements%20of%20AI%20for%20Business-111827?style=for-the-badge"/><br/>
-  <img src="https://img.shields.io/badge/Tech%20Saudi%20Advocates%20(Founderz)-AI%20Skills%204%20Women-0F766E?style=for-the-badge"/><br/>
-  <img src="https://img.shields.io/badge/McKinsey.org-Forward%20Program-051C2C?style=for-the-badge"/>
+<p align="center">
+  <img src="assets/certificates/certificates-strip.svg" width="100%" alt="Professional certificates: AWS AI Practitioner Learning Path, IBM AI Fundamentals, University of Michigan Data Science in Python, Tuwaiq UX, MinnaLearn Elements of AI, AI Skills 4 Women, McKinsey.org Forward Program"/>
 </p>
 
 ---
