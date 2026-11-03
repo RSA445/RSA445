@@ -17,7 +17,7 @@
 <table align="center">
   <tr>
     <td align="center" width="170"><h2>🏆 3+</h2><sub>Hackathon Awards</sub></td>
-    <td align="center" width="170"><h2>🚀 4</h2><sub>Innovation Projects</sub></td>
+    <td align="center" width="170"><h2>🚀 5</h2><sub>Innovation Projects</sub></td>
     <td align="center" width="170"><h2>📜 8</h2><sub>Professional Certificates</sub></td>
     <td align="center" width="170"><h2>🎯 Top 15</h2><sub>out of 300+ teams</sub></td>
   </tr>
@@ -78,12 +78,24 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
       <a href="https://github.com/RSA445/Wisal"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3><a href="https://github.com/RSA445/UniReco">📨 UniReco ↗</a></h3>
+      <b>Academic Recommendation Letter Management System</b><br/><br/>
+      • Built a full web system that automates academic recommendation letters, from the student's request to a verified PDF.<br/>
+      • Separate portals for students, professors, receiving universities and admins, with digital signatures and PDF generation.<br/>
+      • Secure tokenized links let universities verify letters, plus OTP password reset and email notifications.<br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Dompdf-166A45?style=flat-square"/> <img src="https://img.shields.io/badge/PHPMailer-0F766E?style=flat-square"/> <img src="https://img.shields.io/badge/Full%20Source%20Code-22C55E?style=flat-square"/><br/><br/>
+      <a href="https://github.com/RSA445/UniReco"><img src="https://img.shields.io/badge/View%20Project%20%26%20Code-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
+    </td>
+  </tr>
 </table>
 
 ### 💻 Code on GitHub
 
 | Repository | Description | Stack |
 | --- | --- | --- |
+| [**UniReco**](https://github.com/RSA445/UniReco) | Academic recommendation letter management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | [**ResearchHub**](https://github.com/RSA445/ResearchHub) | Desktop prototype of an Arabic research-sharing platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-555?style=flat-square) |
 | [**Rozalya Diamond**](https://github.com/RSA445/Rozalya_Diamond) | Website for a gold & diamond jewelry store | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
@@ -194,7 +206,7 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,git,docker,figma&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,git,docker,figma&theme=dark" alt="Skills"/>
 </p>
 
 <table align="center">
