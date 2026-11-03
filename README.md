@@ -18,7 +18,7 @@
   <tr>
     <td align="center" width="170"><h2>🏆 3+</h2><sub>Hackathon Awards</sub></td>
     <td align="center" width="170"><h2>🚀 4</h2><sub>Innovation Projects</sub></td>
-    <td align="center" width="170"><h2>📜 7</h2><sub>Professional Certificates</sub></td>
+    <td align="center" width="170"><h2>📜 8</h2><sub>Professional Certificates</sub></td>
     <td align="center" width="170"><h2>🎯 Top 15</h2><sub>out of 300+ teams</sub></td>
   </tr>
 </table>
@@ -149,16 +149,42 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 <table>
   <tr>
-    <td align="center" valign="top">
-      <img src="assets/certificates/aws-ai-practitioner-learning-path.jpg" width="400" alt="AWS Certified AI Practitioner Learning Path certificate"/><br/>
+    <td align="center" valign="top" width="50%">
+      <img src="assets/certificates/aws-ai-practitioner-learning-path.jpg" height="230" alt="AWS Certified AI Practitioner Learning Path certificate"/><br/>
       <b>AWS Certified AI Practitioner Learning Path</b><br/>
       <sub>Saudi Digital Academy · MCIT · AWS</sub>
     </td>
-    <td align="center" valign="top">
-      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="assets/certificates/umich-data-science-python.jpg" width="400" alt="Introduction to Data Science in Python certificate"/></a><br/>
+    <td align="center" valign="top" width="50%">
+      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="assets/certificates/umich-data-science-python.jpg" height="230" alt="Introduction to Data Science in Python certificate"/></a><br/>
       <b>Introduction to Data Science in Python</b><br/>
       <sub>University of Michigan · Feb 2026 · Grade: 92.75%</sub><br/>
-      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat-square&logo=coursera&logoColor=white"/></a>
+      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat-square"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <img src="assets/certificates/tuwaiq-ux.jpg" height="230" alt="UX: From Analysis to Decision certificate"/><br/>
+      <b>UX: From Analysis to Decision</b><br/>
+      <sub>Tuwaiq Academy · Sep 2025 · 15 hours</sub>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <a href="https://courses.minnalearn.com/certificate/en/elements-of-ai-for-business/d9d64aed-3248-4259-aace-fb9b03eb20b3"><img src="assets/certificates/minnalearn-elements-of-ai.jpg" height="230" alt="Elements of AI for Business certificate"/></a><br/>
+      <b>Elements of AI for Business</b><br/>
+      <sub>MinnaLearn × University of Helsinki · Dec 2025</sub><br/>
+      <a href="https://courses.minnalearn.com/certificate/en/elements-of-ai-for-business/d9d64aed-3248-4259-aace-fb9b03eb20b3"><img src="https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat-square"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" width="50%">
+      <a href="https://learn.founderz.com/certificate/ai-skills-4-women-tech-saudi-advocates/038a27e6-5dbc-48ed-8d4d-6010bd940cd3"><img src="assets/certificates/founderz-ai-skills-4-women.jpg" height="230" alt="AI Skills 4 Women certificate"/></a><br/>
+      <b>AI Skills 4 Women</b><br/>
+      <sub>Founderz × Microsoft × Tech Saudi Advocates · 2026</sub><br/>
+      <a href="https://learn.founderz.com/certificate/ai-skills-4-women-tech-saudi-advocates/038a27e6-5dbc-48ed-8d4d-6010bd940cd3"><img src="https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat-square"/></a>
+    </td>
+    <td align="center" valign="top" width="50%">
+      <img src="assets/certificates/barmajoon-uiux-workshops.jpg" height="230" alt="UI/UX Design Fundamentals Workshops certificate"/><br/>
+      <b>UI/UX Design Fundamentals Workshops</b><br/>
+      <sub>Barmajoon Association · Tawasol-thon · Jan 2025</sub>
     </td>
   </tr>
 </table>
