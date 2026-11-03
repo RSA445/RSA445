@@ -40,35 +40,37 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 ## 🚀 Featured Projects
 
+<p>
+  <img src="https://img.shields.io/badge/%E2%AD%90%20Latest%20Project-F59E0B?style=for-the-badge"/> <img src="https://img.shields.io/badge/%E2%9A%A1%20Energy%20Hackathon-Participant-10B981?style=for-the-badge"/>
+</p>
+
+<h2><a href="https://github.com/RSA445/Sawn-CUI-Platform">⚡ Sawn (صَوْن) ↗</a></h2>
+<b>National CUI Monitoring & Predictive Maintenance Platform</b><br/><br/>
+<p align="center">
+  <a href="https://github.com/RSA445/Sawn-CUI-Platform"><img src="assets/projects/sawn-dashboard.jpg" width="100%" alt="Sawn dashboard"/></a>
+</p>
+
 <table>
   <tr>
-    <td valign="top">
-      <img src="https://img.shields.io/badge/%E2%AD%90%20Latest%20Project-F59E0B?style=for-the-badge"/> <img src="https://img.shields.io/badge/%E2%9A%A1%20Energy%20Hackathon-Participant-10B981?style=for-the-badge"/>
-      <h2><a href="https://github.com/RSA445/Sawn-CUI-Platform">⚡ Sawn (صَوْن) ↗</a></h2>
-      <b>National CUI Monitoring & Predictive Maintenance Platform</b><br/><br/>
-      <a href="https://github.com/RSA445/Sawn-CUI-Platform"><img src="assets/projects/sawn-dashboard.jpg" width="100%" alt="Sawn dashboard"/></a>
-      <table>
-        <tr>
-          <td width="62%" valign="top">
-            <b>The challenge:</b> Corrosion Under Insulation (CUI) is one of the costliest hidden threats in oil, gas and energy facilities. It wastes heat, causes leaks, and is usually found only by stripping the insulation by hand.<br/><br/>
-            <b>What Sawn does:</b><br/>
-            • Monitors insulated pipelines in real time through IoT sensor telemetry over LoRaWAN (simulated in this prototype).<br/>
-            • Scores CUI risk for each pipe section from insulation moisture, temperature, thermal cycles, vibration and wall-thickness loss.<br/>
-            • Explains every alert with SHAP-style factor contributions, so integrity engineers see exactly why a section is flagged.<br/>
-            • Turns high-risk sections into inspection work orders (UT and digital radiography) and offers a live simulation mode.<br/>
-            • Full Arabic RTL industrial dashboard with a live risk map and charts.<br/><br/>
-            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-LoRaWAN-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/><br/><br/>
-            <a href="https://github.com/RSA445/Sawn-CUI-Platform"><img src="https://img.shields.io/badge/View%20Project%20%26%20Code-%E2%86%92-10B981?style=for-the-badge"/></a>
-          </td>
-          <td width="38%" align="center" valign="top">
-            <img src="assets/projects/sawn-shap.jpg" width="100%" alt="Sawn explainable AI panel"/><br/>
-            <sub>Explainable AI panel: why a pipe section is at risk</sub>
-          </td>
-        </tr>
-      </table>
+    <td width="62%" valign="top">
+      <b>The challenge:</b> Corrosion Under Insulation (CUI) is one of the costliest hidden threats in oil, gas and energy facilities. It wastes heat, causes leaks, and is usually found only by stripping the insulation by hand.<br/><br/>
+      <b>What Sawn does:</b><br/>
+      • Monitors insulated pipelines in real time through IoT sensor telemetry over LoRaWAN (simulated in this prototype).<br/>
+      • Scores CUI risk for each pipe section from insulation moisture, temperature, thermal cycles, vibration and wall-thickness loss.<br/>
+      • Explains every alert with SHAP-style factor contributions, so integrity engineers see exactly why a section is flagged.<br/>
+      • Turns high-risk sections into inspection work orders (UT and digital radiography) and offers a live simulation mode.<br/>
+      • Full Arabic RTL industrial dashboard with a live risk map and charts.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-LoRaWAN-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/><br/><br/>
+      <a href="https://github.com/RSA445/Sawn-CUI-Platform"><img src="https://img.shields.io/badge/View%20Project%20%26%20Code-%E2%86%92-10B981?style=for-the-badge"/></a>
+    </td>
+    <td width="38%" align="center" valign="top">
+      <img src="assets/projects/sawn-shap.jpg" width="260" alt="Sawn explainable AI panel"/><br/>
+      <sub>Explainable AI panel: why a pipe section is at risk</sub>
     </td>
   </tr>
 </table>
+
+<br/>
 
 <table>
   <tr>
