@@ -17,7 +17,7 @@
 <table align="center">
   <tr>
     <td align="center" width="170"><h2>🏆 3+</h2><sub>Hackathon Awards</sub></td>
-    <td align="center" width="170"><h2>🚀 5</h2><sub>Innovation Projects</sub></td>
+    <td align="center" width="170"><h2>🚀 6</h2><sub>Innovation Projects</sub></td>
     <td align="center" width="170"><h2>📜 8</h2><sub>Professional Certificates</sub></td>
     <td align="center" width="170"><h2>🎯 Top 15</h2><sub>out of 300+ teams</sub></td>
   </tr>
@@ -39,6 +39,36 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 ---
 
 ## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://img.shields.io/badge/%E2%AD%90%20Latest%20Project-F59E0B?style=for-the-badge"/> <img src="https://img.shields.io/badge/%E2%9A%A1%20Energy%20Hackathon-Participant-10B981?style=for-the-badge"/>
+      <h2><a href="https://github.com/RSA445/Sawn-CUI-Platform">⚡ Sawn (صَوْن) ↗</a></h2>
+      <b>National CUI Monitoring & Predictive Maintenance Platform</b><br/><br/>
+      <a href="https://github.com/RSA445/Sawn-CUI-Platform"><img src="assets/projects/sawn-dashboard.jpg" width="100%" alt="Sawn dashboard"/></a>
+      <table>
+        <tr>
+          <td width="62%" valign="top">
+            <b>The challenge:</b> Corrosion Under Insulation (CUI) is one of the costliest hidden threats in oil, gas and energy facilities. It wastes heat, causes leaks, and is usually found only by stripping the insulation by hand.<br/><br/>
+            <b>What Sawn does:</b><br/>
+            • Monitors insulated pipelines in real time through IoT sensor telemetry over LoRaWAN (simulated in this prototype).<br/>
+            • Scores CUI risk for each pipe section from insulation moisture, temperature, thermal cycles, vibration and wall-thickness loss.<br/>
+            • Explains every alert with SHAP-style factor contributions, so integrity engineers see exactly why a section is flagged.<br/>
+            • Turns high-risk sections into inspection work orders (UT and digital radiography) and offers a live simulation mode.<br/>
+            • Full Arabic RTL industrial dashboard with a live risk map and charts.<br/><br/>
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-LoRaWAN-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/><br/><br/>
+            <a href="https://github.com/RSA445/Sawn-CUI-Platform"><img src="https://img.shields.io/badge/View%20Project%20%26%20Code-%E2%86%92-10B981?style=for-the-badge"/></a>
+          </td>
+          <td width="38%" align="center" valign="top">
+            <img src="assets/projects/sawn-shap.jpg" width="100%" alt="Sawn explainable AI panel"/><br/>
+            <sub>Explainable AI panel: why a pipe section is at risk</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
@@ -95,6 +125,7 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 | Repository | Description | Stack |
 | --- | --- | --- |
+| [**Sawn**](https://github.com/RSA445/Sawn-CUI-Platform) | CUI monitoring & predictive maintenance platform (Energy Hackathon) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | [**UniReco**](https://github.com/RSA445/UniReco) | Academic recommendation letter management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | [**ResearchHub**](https://github.com/RSA445/ResearchHub) | Desktop prototype of an Arabic research-sharing platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-555?style=flat-square) |
 | [**Rozalya Diamond**](https://github.com/RSA445/Rozalya_Diamond) | Website for a gold & diamond jewelry store | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
@@ -155,58 +186,14 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
   <img src="assets/certificates/certificates-strip.svg" width="100%" alt="Professional certificates: AWS AI Practitioner Learning Path, IBM AI Fundamentals, University of Michigan Data Science in Python, Tuwaiq UX, MinnaLearn Elements of AI, AI Skills 4 Women, McKinsey.org Forward Program"/>
 </p>
 
----
-
-### 🖼️ Certificate Gallery
-
-<table>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="assets/certificates/aws-ai-practitioner-learning-path.jpg" height="230" alt="AWS Certified AI Practitioner Learning Path certificate"/><br/>
-      <b>AWS Certified AI Practitioner Learning Path</b><br/>
-      <sub>Saudi Digital Academy · MCIT · AWS</sub>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="assets/certificates/umich-data-science-python.jpg" height="230" alt="Introduction to Data Science in Python certificate"/></a><br/>
-      <b>Introduction to Data Science in Python</b><br/>
-      <sub>University of Michigan · Feb 2026 · Grade: 92.75%</sub><br/>
-      <a href="https://coursera.org/verify/J80QD92ZZQIZ"><img src="https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat-square"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <img src="assets/certificates/tuwaiq-ux.jpg" height="230" alt="UX: From Analysis to Decision certificate"/><br/>
-      <b>UX: From Analysis to Decision</b><br/>
-      <sub>Tuwaiq Academy · Sep 2025 · 15 hours</sub>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <a href="https://courses.minnalearn.com/certificate/en/elements-of-ai-for-business/d9d64aed-3248-4259-aace-fb9b03eb20b3"><img src="assets/certificates/minnalearn-elements-of-ai.jpg" height="230" alt="Elements of AI for Business certificate"/></a><br/>
-      <b>Elements of AI for Business</b><br/>
-      <sub>MinnaLearn × University of Helsinki · Dec 2025</sub><br/>
-      <a href="https://courses.minnalearn.com/certificate/en/elements-of-ai-for-business/d9d64aed-3248-4259-aace-fb9b03eb20b3"><img src="https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat-square"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <a href="https://learn.founderz.com/certificate/ai-skills-4-women-tech-saudi-advocates/038a27e6-5dbc-48ed-8d4d-6010bd940cd3"><img src="assets/certificates/founderz-ai-skills-4-women.jpg" height="230" alt="AI Skills 4 Women certificate"/></a><br/>
-      <b>AI Skills 4 Women</b><br/>
-      <sub>Founderz × Microsoft × Tech Saudi Advocates · 2026</sub><br/>
-      <a href="https://learn.founderz.com/certificate/ai-skills-4-women-tech-saudi-advocates/038a27e6-5dbc-48ed-8d4d-6010bd940cd3"><img src="https://img.shields.io/badge/Verify%20Certificate-0056D2?style=flat-square"/></a>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <img src="assets/certificates/barmajoon-uiux-workshops.jpg" height="230" alt="UI/UX Design Fundamentals Workshops certificate"/><br/>
-      <b>UI/UX Design Fundamentals Workshops</b><br/>
-      <sub>Barmajoon Association · Tawasol-thon · Jan 2025</sub>
-    </td>
-  </tr>
-</table>
+<p align="center"><sub>🔎 Verify: <a href="https://coursera.org/verify/J80QD92ZZQIZ">University of Michigan</a> · <a href="https://courses.minnalearn.com/certificate/en/elements-of-ai-for-business/d9d64aed-3248-4259-aace-fb9b03eb20b3">MinnaLearn</a> · <a href="https://learn.founderz.com/certificate/ai-skills-4-women-tech-saudi-advocates/038a27e6-5dbc-48ed-8d4d-6010bd940cd3">AI Skills 4 Women</a></sub></p>
 
 ---
 
 ## 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,php,mysql,git,docker,figma&theme=dark" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,tailwind,php,mysql,git,docker,figma&theme=dark" alt="Skills"/>
 </p>
 
 <table align="center">
