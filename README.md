@@ -32,6 +32,7 @@
 AI Solutions Builder and Information Systems student focused on **technology-driven solutions**, **data analysis** and **UI/UX design**. With a strong background in leadership and project management, I bring hands-on skills in web development and a fast-learning approach to deliver measurable impact. Motivated to build practical solutions that solve real-world problems and create meaningful value for organizations.
 
 - 🎓 **Bachelor’s in Information Systems**, Najran University
+- 🤖 **AI Specialization (In Progress)**, KAUST Academy · Nov 2026 – Present
 - 🌐 **Languages:** Arabic, English
 
 <br clear="right"/>
