@@ -138,6 +138,15 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 <table>
   <tr>
+    <td width="70" align="center"><h1>🩺</h1></td>
+    <td>
+      <b>Coordinator, Technology Committee</b> · Health Innovation Hackathon 7 (HIH7), KSAU-HS<br/>
+      <img src="https://img.shields.io/badge/Aug%202026%20–%20Present-10B981?style=flat-square"/> <img src="https://img.shields.io/badge/HealthTech%20Hackathon-0EA5E9?style=flat-square"/><br/>
+      ▸ Coordinate the Technology Committee's work for the 7th edition of the Health Innovation Hackathon.<br/>
+      ▸ Collaborate with the organizing team to deliver a hackathon that brings technology and healthcare together.
+    </td>
+  </tr>
+  <tr>
     <td width="70" align="center"><h1>🧑‍💻</h1></td>
     <td>
       <b>Leader</b> · Programming Club<br/>
