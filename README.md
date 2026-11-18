@@ -46,7 +46,8 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 </p>
 
 <h2><a href="https://github.com/RSA445/Sawn-CUI-Platform">⚡ Sawn (صَوْن) ↗</a></h2>
-<b>National CUI Monitoring & Predictive Maintenance Platform</b><br/><br/>
+<b>National CUI Monitoring & Predictive Maintenance Platform</b><br/>
+<sub>👥 Team: Roz Alomar · Sereen Oraibi · Saba · Rehab · Layan</sub><br/><br/>
 <p align="center">
   <a href="https://github.com/RSA445/Sawn-CUI-Platform"><img src="assets/projects/sawn-dashboard.jpg" width="100%" alt="Sawn dashboard"/></a>
 </p>
