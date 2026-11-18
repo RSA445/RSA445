@@ -77,7 +77,8 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RSA445/Wjhny">🕋 Wjhny ↗</a></h3>
-      <b>AI-Powered Pilgrimage Assistant</b><br/><br/>
+      <b>AI-Powered Pilgrimage Assistant</b><br/>
+      <sub>👑 Team led by <b>Taif Alanazi</b> · I worked with her as a team member</sub><br/><br/>
       • Developed an AI and AR-based solution for crowd management during Hajj and Umrah.<br/>
       • Selected among the top 15 teams out of 300+ participants.<br/>
       • Advanced to the incubation stage and presented at the Hajj & Umrah Conference 2025.<br/><br/>
