@@ -75,9 +75,7 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RSA445/Nabeh">🎓 Nabeh ↗</a></h3>
       <b>AI-Powered Academic Advising Chatbot</b><br/><br/>
-      • Built an AI academic advising chatbot using insights from faculty, top students and university regulations.<br/>
-      • Gives instant answers tailored to major and level, with remedial plans and instructor guidance.<br/>
-      • Links to the university account for privacy and personalized, always-available support.<br/><br/>
+      An AI chatbot that gives students instant, personalized academic advice.<br/><br/>
       <img src="https://img.shields.io/badge/AI%20Chatbot-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/EdTech-14B8A6?style=flat-square"/> <img src="https://img.shields.io/badge/Personalized%20Advising-6366F1?style=flat-square"/><br/><br/>
       <a href="https://github.com/RSA445/Nabeh"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
@@ -86,15 +84,14 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RSA445/Bunyan">🥽 Bunyan ↗</a></h3>
       <b>VR-Based Therapy Solution</b><br/><br/>
-      • Developed a VR-based tool to support children during physiotherapy sessions.<br/>
-      • Improved engagement and therapy effectiveness.<br/><br/>
+      A VR tool that makes physiotherapy sessions more engaging for children.<br/><br/>
       <img src="https://img.shields.io/badge/VR-EC4899?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-National-CD7F32?style=flat-square"/><br/><br/>
       <a href="https://github.com/RSA445/Bunyan"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/RSA445/Wisal">🏛️ Wisal ↗</a></h3>
       <b>Digital Public Service Improvement Platform</b><br/><br/>
-      • Designed solutions to improve the accessibility and efficiency of public services in Najran.<br/><br/>
+      A platform to make public services in Najran easier to access.<br/><br/>
       <img src="https://img.shields.io/badge/GovTech-22C55E?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-CD7F32?style=flat-square"/> <img src="https://img.shields.io/badge/Regional%20Governor%20Recognition-1A1F4B?style=flat-square"/><br/><br/>
       <a href="https://github.com/RSA445/Wisal"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
@@ -103,9 +100,7 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
     <td colspan="2" valign="top">
       <h3><a href="https://github.com/RSA445/UniReco">📨 UniReco ↗</a></h3>
       <b>Academic Recommendation Letter Management System</b><br/><br/>
-      • Built a full web system that automates academic recommendation letters, from the student's request to a verified PDF.<br/>
-      • Separate portals for students, professors, receiving universities and admins, with digital signatures and PDF generation.<br/>
-      • Secure tokenized links let universities verify letters, plus OTP password reset and email notifications.<br/><br/>
+      A web system that automates recommendation letters, from request to a verified, signed PDF.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Dompdf-166A45?style=flat-square"/> <img src="https://img.shields.io/badge/PHPMailer-0F766E?style=flat-square"/> <img src="https://img.shields.io/badge/Full%20Source%20Code-22C55E?style=flat-square"/><br/><br/>
       <a href="https://github.com/RSA445/UniReco"><img src="https://img.shields.io/badge/View%20Project%20%26%20Code-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
