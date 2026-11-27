@@ -46,7 +46,6 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 </p>
 
 <h2>⚡ Sawn (صَوْن) 🔒</h2>
-<b>National CUI Monitoring & Predictive Maintenance Platform</b><br/>
 <sub>👥 Team: Roz Alomar · Sereen Oraibi · Saba Alkhaled · Rehab · Layan</sub><br/><br/>
 <table>
   <tr>
@@ -63,27 +62,23 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
   <tr>
     <td width="50%" valign="top">
       <h3>🕋 Wjhny 🔒</h3>
-      <b>AI-Powered Pilgrimage Assistant</b><br/>
       <sub>👑 Team led by <b>Taif Alanazi</b> · I worked with her as a team member</sub><br/><br/>
       🏆 Top 15 of 300+ teams · Incubation stage · Hajj & Umrah Conference 2025<br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Nabeh 🔒</h3>
-      <b>AI-Powered Academic Advising Chatbot</b><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🥽 Bunyan 🔒</h3>
-      <b>VR-Based Therapy Solution</b><br/><br/>
       🥉 3rd Place, national-level competition<br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ Wisal 🔒</h3>
-      <b>Digital Public Service Improvement Platform</b><br/><br/>
       🥉 3rd Place · 🏅 Recognized by the Regional Governor<br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
@@ -91,7 +86,6 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
   <tr>
     <td colspan="2" valign="top">
       <h3>📨 UniReco 🔒</h3>
-      <b>Academic Recommendation Letter Management System</b><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
   </tr>
@@ -101,12 +95,12 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 <sub>🔒 All project code is private. For access, contact me at <a href="mailto:rozsafar9@outlook.com">rozsafar9@outlook.com</a> or on <a href="https://www.linkedin.com/in/roz-alomar">LinkedIn</a>.</sub>
 
-| Repository | Description | Stack |
-| --- | --- | --- |
-| **Sawn** 🔒 | Energy Hackathon project | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **UniReco** 🔒 | Academic recommendation letter management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **ResearchHub** 🔒 | Desktop prototype of an Arabic research-sharing platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-555?style=flat-square) |
-| **Rozalya Diamond** 🔒 | Website for a gold & diamond jewelry store | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| Repository | Stack |
+| --- | --- |
+| **Sawn** 🔒 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **UniReco** 🔒 | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **ResearchHub** 🔒 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-555?style=flat-square) |
+| **Rozalya Diamond** 🔒 | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 
