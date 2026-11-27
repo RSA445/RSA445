@@ -48,13 +48,9 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 <h2>⚡ Sawn (صَوْن) 🔒</h2>
 <b>National CUI Monitoring & Predictive Maintenance Platform</b><br/>
 <sub>👥 Team: Roz Alomar · Sereen Oraibi · Saba · Rehab · Layan</sub><br/><br/>
-<p align="center">
-  <img src="assets/projects/sawn-dashboard.jpg" width="100%" alt="Sawn dashboard"/>
-</p>
-
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td valign="top">
       <b>The challenge:</b> Corrosion Under Insulation (CUI) is one of the costliest hidden threats in oil, gas and energy facilities. It wastes heat, causes leaks, and is usually found only by stripping the insulation by hand.<br/><br/>
       <b>What Sawn does:</b><br/>
       • Monitors insulated pipelines in real time through IoT sensor telemetry over LoRaWAN (simulated in this prototype).<br/>
@@ -64,10 +60,6 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
       • Full Arabic RTL industrial dashboard with a live risk map and charts.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-LoRaWAN-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
-    </td>
-    <td width="38%" align="center" valign="top">
-      <img src="assets/projects/sawn-shap.jpg" width="260" alt="Sawn explainable AI panel"/><br/>
-      <sub>Explainable AI panel: why a pipe section is at risk</sub>
     </td>
   </tr>
 </table>
