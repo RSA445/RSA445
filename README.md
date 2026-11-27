@@ -52,12 +52,8 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
   <tr>
     <td valign="top">
       <b>The challenge:</b> Corrosion Under Insulation (CUI) is one of the costliest hidden threats in oil, gas and energy facilities. It wastes heat, causes leaks, and is usually found only by stripping the insulation by hand.<br/><br/>
-      <b>What Sawn does:</b><br/>
-      • Monitors insulated pipelines in real time through IoT sensor telemetry over LoRaWAN (simulated in this prototype).<br/>
-      • Scores CUI risk for each pipe section from insulation moisture, temperature, thermal cycles, vibration and wall-thickness loss.<br/>
-      • Explains every alert with SHAP-style factor contributions, so integrity engineers see exactly why a section is flagged.<br/>
-      • Turns high-risk sections into inspection work orders (UT and digital radiography) and offers a live simulation mode.<br/>
-      • Full Arabic RTL industrial dashboard with a live risk map and charts.<br/><br/>
+      <b>The idea:</b> A smart platform that helps energy facilities detect CUI risk early, before leaks happen, using IoT and explainable AI.<br/><br/>
+      <sub>🔒 Technical details and code are kept private to protect the idea.</sub><br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-LoRaWAN-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
@@ -72,62 +68,62 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
       <h3>🕋 Wjhny 🔒</h3>
       <b>AI-Powered Pilgrimage Assistant</b><br/>
       <sub>👑 Team led by <b>Taif Alanazi</b> · I worked with her as a team member</sub><br/><br/>
-      • Developed an AI and AR-based solution for crowd management during Hajj and Umrah.<br/>
+      • An AI and AR-based solution for crowd management during Hajj and Umrah.<br/>
       • Selected among the top 15 teams out of 300+ participants.<br/>
       • Advanced to the incubation stage and presented at the Hajj & Umrah Conference 2025.<br/><br/>
       <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/AR-5B3CC4?style=flat-square"/> <img src="https://img.shields.io/badge/Top%2015%20%2F%20300%2B-F59E0B?style=flat-square"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
-      <h3>🎓 Nabeh 🔒</h3>
+      <h3><a href="https://github.com/RSA445/Nabeh">🎓 Nabeh ↗</a></h3>
       <b>AI-Powered Academic Advising Chatbot</b><br/><br/>
       • Built an AI academic advising chatbot using insights from faculty, top students and university regulations.<br/>
       • Gives instant answers tailored to major and level, with remedial plans and instructor guidance.<br/>
       • Links to the university account for privacy and personalized, always-available support.<br/><br/>
       <img src="https://img.shields.io/badge/AI%20Chatbot-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/EdTech-14B8A6?style=flat-square"/> <img src="https://img.shields.io/badge/Personalized%20Advising-6366F1?style=flat-square"/><br/><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
+      <a href="https://github.com/RSA445/Nabeh"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🥽 Bunyan 🔒</h3>
+      <h3><a href="https://github.com/RSA445/Bunyan">🥽 Bunyan ↗</a></h3>
       <b>VR-Based Therapy Solution</b><br/><br/>
       • Developed a VR-based tool to support children during physiotherapy sessions.<br/>
       • Improved engagement and therapy effectiveness.<br/><br/>
       <img src="https://img.shields.io/badge/VR-EC4899?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-National-CD7F32?style=flat-square"/><br/><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
+      <a href="https://github.com/RSA445/Bunyan"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏛️ Wisal 🔒</h3>
+      <h3><a href="https://github.com/RSA445/Wisal">🏛️ Wisal ↗</a></h3>
       <b>Digital Public Service Improvement Platform</b><br/><br/>
       • Designed solutions to improve the accessibility and efficiency of public services in Najran.<br/><br/>
       <img src="https://img.shields.io/badge/GovTech-22C55E?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-CD7F32?style=flat-square"/> <img src="https://img.shields.io/badge/Regional%20Governor%20Recognition-1A1F4B?style=flat-square"/><br/><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
+      <a href="https://github.com/RSA445/Wisal"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>📨 UniReco 🔒</h3>
+      <h3><a href="https://github.com/RSA445/UniReco">📨 UniReco ↗</a></h3>
       <b>Academic Recommendation Letter Management System</b><br/><br/>
       • Built a full web system that automates academic recommendation letters, from the student's request to a verified PDF.<br/>
       • Separate portals for students, professors, receiving universities and admins, with digital signatures and PDF generation.<br/>
       • Secure tokenized links let universities verify letters, plus OTP password reset and email notifications.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Dompdf-166A45?style=flat-square"/> <img src="https://img.shields.io/badge/PHPMailer-0F766E?style=flat-square"/> <img src="https://img.shields.io/badge/Full%20Source%20Code-22C55E?style=flat-square"/><br/><br/>
-      <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
+      <a href="https://github.com/RSA445/UniReco"><img src="https://img.shields.io/badge/View%20Project%20%26%20Code-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
     </td>
   </tr>
 </table>
 
 ### 💻 Code on GitHub
 
-<sub>🔒 Project code is private. For access, contact me at <a href="mailto:rozsafar9@outlook.com">rozsafar9@outlook.com</a> or on <a href="https://www.linkedin.com/in/roz-alomar">LinkedIn</a>.</sub>
+<sub>🔒 Sawn and Wjhny are kept private to protect the ideas. For access, contact me at <a href="mailto:rozsafar9@outlook.com">rozsafar9@outlook.com</a> or on <a href="https://www.linkedin.com/in/roz-alomar">LinkedIn</a>.</sub>
 
 | Repository | Description | Stack |
 | --- | --- | --- |
 | **Sawn** 🔒 | CUI monitoring & predictive maintenance platform (Energy Hackathon) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| **UniReco** 🔒 | Academic recommendation letter management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| **ResearchHub** 🔒 | Desktop prototype of an Arabic research-sharing platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-555?style=flat-square) |
-| **Rozalya Diamond** 🔒 | Website for a gold & diamond jewelry store | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| [**UniReco**](https://github.com/RSA445/UniReco) | Academic recommendation letter management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| [**ResearchHub**](https://github.com/RSA445/ResearchHub) | Desktop prototype of an Arabic research-sharing platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-555?style=flat-square) |
+| [**Rozalya Diamond**](https://github.com/RSA445/Rozalya_Diamond) | Website for a gold & diamond jewelry store | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 
