@@ -51,10 +51,9 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 <table>
   <tr>
     <td valign="top">
-      <b>The challenge:</b> Corrosion Under Insulation (CUI) is one of the costliest hidden threats in oil, gas and energy facilities. It wastes heat, causes leaks, and is usually found only by stripping the insulation by hand.<br/><br/>
-      <b>The idea:</b> A smart platform that helps energy facilities detect CUI risk early, before leaks happen, using IoT and explainable AI.<br/><br/>
+      A smart platform for early detection of corrosion risk in energy facilities.<br/><br/>
       <sub>🔒 Technical details and code are kept private to protect the idea.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/> <img src="https://img.shields.io/badge/Explainable%20AI-SHAP-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-LoRaWAN-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/> <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white"/><br/><br/>
+      <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Energy-10B981?style=flat-square"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
   </tr>
@@ -68,9 +67,8 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
       <h3>🕋 Wjhny 🔒</h3>
       <b>AI-Powered Pilgrimage Assistant</b><br/>
       <sub>👑 Team led by <b>Taif Alanazi</b> · I worked with her as a team member</sub><br/><br/>
-      • An AI and AR-based solution for crowd management during Hajj and Umrah.<br/>
-      • Selected among the top 15 teams out of 300+ participants.<br/>
-      • Advanced to the incubation stage and presented at the Hajj & Umrah Conference 2025.<br/><br/>
+      A smart assistant to improve the pilgrim experience during Hajj and Umrah.<br/><br/>
+      🏆 Top 15 of 300+ teams · Incubation stage · Hajj & Umrah Conference 2025<br/><br/>
       <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/AR-5B3CC4?style=flat-square"/> <img src="https://img.shields.io/badge/Top%2015%20%2F%20300%2B-F59E0B?style=flat-square"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
@@ -120,7 +118,7 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 | Repository | Description | Stack |
 | --- | --- | --- |
-| **Sawn** 🔒 | CUI monitoring & predictive maintenance platform (Energy Hackathon) | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| **Sawn** 🔒 | Energy Hackathon project | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
 | [**UniReco**](https://github.com/RSA445/UniReco) | Academic recommendation letter management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
 | [**ResearchHub**](https://github.com/RSA445/ResearchHub) | Desktop prototype of an Arabic research-sharing platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-555?style=flat-square) |
 | [**Rozalya Diamond**](https://github.com/RSA445/Rozalya_Diamond) | Website for a gold & diamond jewelry store | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
