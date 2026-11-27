@@ -46,11 +46,11 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 </p>
 
 <h2>⚡ Sawn (صَوْن) 🔒</h2>
+<b>National CUI Monitoring & Predictive Maintenance Platform</b><br/>
 <sub>👥 Team: Roz Alomar · Sereen Oraibi · Saba Alkhaled · Rehab · Layan</sub><br/><br/>
 <table>
   <tr>
     <td valign="top">
-      A smart platform for early detection of corrosion risk in energy facilities.<br/><br/>
       <sub>🔒 Technical details and code are kept private to protect the idea.</sub><br/><br/>
       <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/IoT-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/Energy-10B981?style=flat-square"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
@@ -64,15 +64,15 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
   <tr>
     <td width="50%" valign="top">
       <h3>🕋 Wjhny 🔒</h3>
+      <b>AI-Powered Pilgrimage Assistant</b><br/>
       <sub>👑 Team led by <b>Taif Alanazi</b> · I worked with her as a team member</sub><br/><br/>
-      A smart assistant to improve the pilgrim experience during Hajj and Umrah.<br/><br/>
       🏆 Top 15 of 300+ teams · Incubation stage · Hajj & Umrah Conference 2025<br/><br/>
       <img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/> <img src="https://img.shields.io/badge/AR-5B3CC4?style=flat-square"/> <img src="https://img.shields.io/badge/Top%2015%20%2F%20300%2B-F59E0B?style=flat-square"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
       <h3>🎓 Nabeh 🔒</h3>
-      An AI chatbot that gives students instant, personalized academic advice.<br/><br/>
+      <b>AI-Powered Academic Advising Chatbot</b><br/><br/>
       <img src="https://img.shields.io/badge/AI%20Chatbot-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/EdTech-14B8A6?style=flat-square"/> <img src="https://img.shields.io/badge/Personalized%20Advising-6366F1?style=flat-square"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
@@ -80,13 +80,13 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
   <tr>
     <td width="50%" valign="top">
       <h3>🥽 Bunyan 🔒</h3>
-      A VR tool that makes physiotherapy sessions more engaging for children.<br/><br/>
+      <b>VR-Based Therapy Solution</b><br/><br/>
       <img src="https://img.shields.io/badge/VR-EC4899?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-National-CD7F32?style=flat-square"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
       <h3>🏛️ Wisal 🔒</h3>
-      A platform to make public services in Najran easier to access.<br/><br/>
+      <b>Digital Public Service Improvement Platform</b><br/><br/>
       <img src="https://img.shields.io/badge/GovTech-22C55E?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-CD7F32?style=flat-square"/> <img src="https://img.shields.io/badge/Regional%20Governor%20Recognition-1A1F4B?style=flat-square"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
@@ -94,7 +94,7 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
   <tr>
     <td colspan="2" valign="top">
       <h3>📨 UniReco 🔒</h3>
-      A web system that automates recommendation letters, from request to a verified, signed PDF.<br/><br/>
+      <b>Academic Recommendation Letter Management System</b><br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Dompdf-166A45?style=flat-square"/> <img src="https://img.shields.io/badge/PHPMailer-0F766E?style=flat-square"/> <img src="https://img.shields.io/badge/Full%20Source%20Code-22C55E?style=flat-square"/><br/><br/>
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
