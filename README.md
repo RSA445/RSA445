@@ -73,50 +73,50 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
       <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/RSA445/Nabeh">🎓 Nabeh ↗</a></h3>
+      <h3>🎓 Nabeh 🔒</h3>
       <b>AI-Powered Academic Advising Chatbot</b><br/><br/>
       An AI chatbot that gives students instant, personalized academic advice.<br/><br/>
       <img src="https://img.shields.io/badge/AI%20Chatbot-0EA5E9?style=flat-square"/> <img src="https://img.shields.io/badge/EdTech-14B8A6?style=flat-square"/> <img src="https://img.shields.io/badge/Personalized%20Advising-6366F1?style=flat-square"/><br/><br/>
-      <a href="https://github.com/RSA445/Nabeh"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
+      <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/RSA445/Bunyan">🥽 Bunyan ↗</a></h3>
+      <h3>🥽 Bunyan 🔒</h3>
       <b>VR-Based Therapy Solution</b><br/><br/>
       A VR tool that makes physiotherapy sessions more engaging for children.<br/><br/>
       <img src="https://img.shields.io/badge/VR-EC4899?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-National-CD7F32?style=flat-square"/><br/><br/>
-      <a href="https://github.com/RSA445/Bunyan"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
+      <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/RSA445/Wisal">🏛️ Wisal ↗</a></h3>
+      <h3>🏛️ Wisal 🔒</h3>
       <b>Digital Public Service Improvement Platform</b><br/><br/>
       A platform to make public services in Najran easier to access.<br/><br/>
       <img src="https://img.shields.io/badge/GovTech-22C55E?style=flat-square"/> <img src="https://img.shields.io/badge/%F0%9F%A5%89%203rd%20Place-CD7F32?style=flat-square"/> <img src="https://img.shields.io/badge/Regional%20Governor%20Recognition-1A1F4B?style=flat-square"/><br/><br/>
-      <a href="https://github.com/RSA445/Wisal"><img src="https://img.shields.io/badge/View%20Project%20Details-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
+      <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/RSA445/UniReco">📨 UniReco ↗</a></h3>
+      <h3>📨 UniReco 🔒</h3>
       <b>Academic Recommendation Letter Management System</b><br/><br/>
       A web system that automates recommendation letters, from request to a verified, signed PDF.<br/><br/>
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/Dompdf-166A45?style=flat-square"/> <img src="https://img.shields.io/badge/PHPMailer-0F766E?style=flat-square"/> <img src="https://img.shields.io/badge/Full%20Source%20Code-22C55E?style=flat-square"/><br/><br/>
-      <a href="https://github.com/RSA445/UniReco"><img src="https://img.shields.io/badge/View%20Project%20%26%20Code-%E2%86%92-8B5CF6?style=for-the-badge"/></a>
+      <img src="https://img.shields.io/badge/%F0%9F%94%92%20Private%20Project-Access%20on%20request-6B7280?style=for-the-badge"/>
     </td>
   </tr>
 </table>
 
 ### 💻 Code on GitHub
 
-<sub>🔒 Sawn and Wjhny are kept private to protect the ideas. For access, contact me at <a href="mailto:rozsafar9@outlook.com">rozsafar9@outlook.com</a> or on <a href="https://www.linkedin.com/in/roz-alomar">LinkedIn</a>.</sub>
+<sub>🔒 All project code is private. For access, contact me at <a href="mailto:rozsafar9@outlook.com">rozsafar9@outlook.com</a> or on <a href="https://www.linkedin.com/in/roz-alomar">LinkedIn</a>.</sub>
 
 | Repository | Description | Stack |
 | --- | --- | --- |
 | **Sawn** 🔒 | Energy Hackathon project | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
-| [**UniReco**](https://github.com/RSA445/UniReco) | Academic recommendation letter management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
-| [**ResearchHub**](https://github.com/RSA445/ResearchHub) | Desktop prototype of an Arabic research-sharing platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-555?style=flat-square) |
-| [**Rozalya Diamond**](https://github.com/RSA445/Rozalya_Diamond) | Website for a gold & diamond jewelry store | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **UniReco** 🔒 | Academic recommendation letter management system | ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |
+| **ResearchHub** 🔒 | Desktop prototype of an Arabic research-sharing platform | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Tkinter](https://img.shields.io/badge/-Tkinter-555?style=flat-square) |
+| **Rozalya Diamond** 🔒 | Website for a gold & diamond jewelry store | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
 
 ---
 
