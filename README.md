@@ -47,7 +47,7 @@ AI Solutions Builder and Information Systems student focused on **technology-dri
 
 <h2>⚡ Sawn (صَوْن) 🔒</h2>
 <b>National CUI Monitoring & Predictive Maintenance Platform</b><br/>
-<sub>👥 Team: Roz Alomar · Sereen Oraibi · Saba · Rehab · Layan</sub><br/><br/>
+<sub>👥 Team: Roz Alomar · Sereen Oraibi · Saba Alkhaled · Rehab · Layan</sub><br/><br/>
 <table>
   <tr>
     <td valign="top">
